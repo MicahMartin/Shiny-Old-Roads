@@ -1,0 +1,15 @@
+{
+  "name": "old-roads",
+  "version": "1.0.0",
+  "description": "A nostalgia project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/micahmartin/shiny-old-roads.git"
+  },
+  "author": "Micah Martin",
+  "license": "MIT"
+}
